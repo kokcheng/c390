@@ -3,7 +3,7 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2019-11-12T05:38:21Z",
+  "updated": "2019-11-12T07:20:52Z",
   "id": "c390",
   "duration": 0,
   "title": "C390 - Portfolio Development Module",
@@ -35,6 +35,6 @@
     "web"
   ],
   "feedback": "https://github.com/googlecodelabs/your-first-pwapp/issues",
-  "ga": "UA-52746336-1",
+  "ga": "UA-152045256-1",
   "url": "c390"
 }
